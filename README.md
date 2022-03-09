@@ -1,5 +1,5 @@
-# BullNice
-A complete business solution. 
+# CRUD Operation with React & TypeScript
+A complete CRUD Operation or SPA with React JS &  with draggble elements.  
 
 ---
 
@@ -39,4 +39,5 @@ http://localhost:3000
   - [x]  JavaScript
   - [x]  React JS 
   - [x]  TypeScript 
+  - [x]  React-Beautiful-DND 
   - [x]  HTML / CSS
